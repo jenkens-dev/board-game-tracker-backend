@@ -1,2 +1,2 @@
-class BoardgamesController < ApplicationController
+class Api::V1::BoardgamesController < ApplicationController
 end
